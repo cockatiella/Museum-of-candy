@@ -1,0 +1,54 @@
+* {
+  margin: 0 !important;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5d9d5;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600 !important;
+}
+
+.navbar {
+  background-color: #e4bee0 !important;
+}
+
+.nav-link {
+  color: azure !important;
+}
+
+.nav-link:hover {
+  color: red !important;
+}
+
+.display-2 {
+  color: white !important;
+}
+span {
+  color: red !important;
+  font-weight: bold !important;
+}
+
+.img-fluid {
+  border-radius: 30px !important;
+  border: 5px solid cyan !important;
+}
+
+i{
+    font-weight: bold !important;
+    color:#dd8cd5 !important;
+    font-size: 2em;
+}
+
+hr{
+    border:8px dotted#dd8cd5;
+    width: 50%;
+    border-top:0;
+    background-color: transparent;
+
+}
+
+.lorem {
+  color: azure !important;
+  font-weight: bold !important;
+}
